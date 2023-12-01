@@ -24,6 +24,7 @@ This repository contains two Microsoft Visual Studio solution files:
 - Establishes a connection with the server.
 - Sends data to the server.
 - Handles response or acknowledgments from the server.
+  
 **TCP_Server.sln**
 - This solution contains the server-side application. It manages incoming connections and processes the data received from the client.
 
@@ -31,6 +32,7 @@ This repository contains two Microsoft Visual Studio solution files:
 - Listens for incoming client connections.
 - Receives and processes data sent by clients.
 - Sends response or acknowledgments back to the clients.
+  
 **Configuration**
 - Each solution may contain various configurations for debugging, testing, and production. These configurations can be adjusted within Visual Studio.
 
